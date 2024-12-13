@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\shimo\\.nuget\\packages\\",
-        "outputPath": "c:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\PROJECTS\\Rephael\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shimo\\AppData\\Roaming\\NuGet\\NuGet.Config"

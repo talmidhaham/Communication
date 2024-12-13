@@ -15,3 +15,4 @@ C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.
 C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
