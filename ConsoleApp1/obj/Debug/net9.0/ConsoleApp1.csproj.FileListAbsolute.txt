@@ -1,0 +1,17 @@
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\System.Reactive.dll
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleA.CB28C8CC.Up2Date
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\PROJECTS\Rephael\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
